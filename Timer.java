@@ -16,7 +16,7 @@ public class Timer {
 	
 	Scanner scan = new Scanner(System.in);
 	
-	System.out.println(" break");
+	System.out.println(" Boonggggggg  ");
 
 	
 	for(int i = scan.nextInt() - 1; i >= 0 ; i--) {
